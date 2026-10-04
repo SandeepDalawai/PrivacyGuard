@@ -1,0 +1,2 @@
+# PrivacyGuard-Privacy-Preserving-Microdata-Anonymization-Re-identification-Risk-Analysis
+Privacy engineering project for assessing microdata re-identification risk and applying privacy-preserving data masking techniques. Implements suppression, generalization, top/bottom coding, aggregation, noise addition, data swapping, randomization, and micro aggregation while analyzing privacy–utility trade-offs.
